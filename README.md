@@ -1,5 +1,7 @@
 SVM Model Upgrade 🧠💻
+
 🔍 Project Summary
+
 As part of a recent hackathon, we were challenged to enhance the classification model built in Tutorials 1 through 4. We improved upon these earlier models and developed a highly optimized Support Vector Machine (SVM)-based classifier, which significantly boosts accuracy, performance, and usability. Below are the major improvements and comparisons.
 
 ✅ Improvements Over Tutorials 1–4
@@ -59,14 +61,17 @@ Run the script:
 python improved_svm.py
 
 📌 Final Words
+
 This SVM model was built to outperform the basic versions from our previous tutorials. It is faster, smarter, and more insightful, providing developers and data scientists with a robust tool for classifying data and gaining deeper insights.
 
 🏆 We Won the Competition! 🧠💻
-We are incredibly proud to share that Team Sam and Joshua took home 1st place at our recent three-day machine learning competition! 🥇
+
+We are incredibly proud to share that Team Samkelo Maswana and Joshua Sutherland took home 1st place at our recent three-day machine learning competition! 🥇
 
 This project marked a major milestone for us, as it was our first time diving into machine learning—and it wasn’t easy. From brainstorming ideas to debugging errors at 1 a.m., we faced every challenge head-on and pushed ourselves beyond what we thought we could do.
 
 🔍 How We Did It
+
 We built a machine learning model using the Support Vector Machine (SVM) algorithm—a powerful classifier used for tasks like pattern recognition and data prediction. Here's how we approached it:
 
 Data Preparation: We started by cleaning and preparing our dataset, ensuring it was properly labeled and balanced.
@@ -78,14 +83,20 @@ Testing and Evaluation: We evaluated the model using accuracy scores and confusi
 Presentation: We wrapped it up by presenting our process, challenges, and results to a panel of judges.
 
 💪 The Challenge
+
+
 What made this victory even more rewarding was the struggle we overcame. Neither of us had ever written a line of machine learning code before. Learning the theory behind SVMs, experimenting with different kernels (like linear and RBF), and figuring out model tuning—all within three days—was intense.
 
 There were moments where things didn’t work, models failed to converge, or predictions were off. But we never gave up. We asked questions, debugged, tested, and supported each other through every late-night sprint.
 
 👥 Teamwork & Dedication
+
+
 This wouldn’t have been possible without pure teamwork. Both of us—Samkelo Maswana and Joshua Sutherland —gave 100%. We shared tasks, kept the energy up, and always believed we could do it if we gave it our all.
 
 🏁 The Result
+
+
 Our hard work paid off. We not only completed the project on time—we won the competition. 🎉
 
 We’ll be posting pictures of us working, coding, and presenting soon. This is only the beginning!

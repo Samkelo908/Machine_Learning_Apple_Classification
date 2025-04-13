@@ -91,6 +91,8 @@ Our hard work paid off. We not only completed the project on time—we won the c
 We’ll be posting pictures of us working, coding, and presenting soon. This is only the beginning!
 
  Behind the Scenes – The Grind
+
+ 
  ![IMG-20250410-WA0041](https://github.com/user-attachments/assets/3b976d38-2662-4fac-87f1-ca8c30f5b3d9)
 
  ![IMG-20250410-WA0039](https://github.com/user-attachments/assets/456262c6-c26f-4c73-b056-48b947f1ecbd)
@@ -98,6 +100,8 @@ We’ll be posting pictures of us working, coding, and presenting soon. This is 
 Here’s a glimpse of us in action—deep in focus, surrounded by open laptops, early morning energy, and that determined look in our eyes. This picture was taken in the morning while we were fully zoned in, troubleshooting our SVM model and refining our presentation slides. It wasn’t just about writing code—it was about learning together, encouraging each other, and staying motivated throughout the entire three-day challenge. These moments built the foundation for our success and made the win even more meaningful.
 
 🎤 The Big Moment – Presenting Our Work
+
+
 ![IMG-20250410-WA0016](https://github.com/user-attachments/assets/41bebac8-ccbe-4bfc-9741-e9b8b0c3557c)
 
 ![IMG-20250410-WA0052](https://github.com/user-attachments/assets/6eea9268-f8c3-4396-863e-b44b053c8c86)
